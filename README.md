@@ -10,3 +10,5 @@ last bit will be costum
 
 Found at
 https://superuser.com/questions/55040/save-a-single-web-page-with-background-images-with-wget
+also might need to brew install wget:
+brew install wget
